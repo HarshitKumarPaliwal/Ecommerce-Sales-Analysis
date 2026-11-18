@@ -1,0 +1,101 @@
+Order ID,Order Date,Customer Name,City,Category,Product,Quantity,Unit Price (INR),Unit Cost (INR),Discount %,Payment Method
+ORD1001,2025-01-18,Ananya Malhotra,Delhi,Electronics,Bluetooth Speaker,2,1999,1200,0.0,Cash on Delivery
+ORD1002,2025-01-20,Pooja Kumar,Mumbai,Books,Python Programming Book,1,599,300,0.0,Credit Card
+ORD1003,2025-01-22,Rahul Tiwari,Kolkata,Fashion,Women's Handbag,1,2499,1300,0.05,Debit Card
+ORD1004,2025-01-28,Karan Malhotra,Delhi,Books,Self-Help Bestseller,2,399,180,0.0,UPI
+ORD1005,2025-01-30,Deepak Malhotra,Hyderabad,Fashion,Women's Handbag,2,2499,1300,0.05,Credit Card
+ORD1006,2025-02-07,Meera Gupta,Bengaluru,Electronics,Bluetooth Speaker,1,1999,1200,0.1,UPI
+ORD1007,2025-02-08,Neha Tiwari,Bengaluru,Books,Python Programming Book,3,599,300,0.0,Cash on Delivery
+ORD1008,2025-02-11,Pooja Verma,Hyderabad,Home & Kitchen,Air Fryer,2,5999,4000,0.1,Credit Card
+ORD1009,2025-02-14,Sneha Verma,Bengaluru,Books,Python Programming Book,3,599,300,0.05,UPI
+ORD1010,2025-02-28,Arjun Mishra,Noida,Electronics,Smart Watch,1,4999,3300,0.1,Credit Card
+ORD1011,2025-03-14,Priya Mishra,Delhi,Fashion,Men's Sneakers,1,2999,1700,0.0,Net Banking
+ORD1012,2025-03-14,Isha Jain,Chennai,Electronics,Bluetooth Speaker,1,1999,1200,0.0,UPI
+ORD1013,2025-03-17,Manish Malhotra,Hyderabad,Books,Python Programming Book,4,599,300,0.15,UPI
+ORD1014,2025-03-19,Nikhil Sharma,Pune,Electronics,Bluetooth Speaker,2,1999,1200,0.05,Debit Card
+ORD1015,2025-03-20,Divya Mishra,Mumbai,Fashion,Denim Jacket,1,3299,1900,0.0,UPI
+ORD1016,2025-03-21,Pooja Jain,Kolkata,Books,Python Programming Book,3,599,300,0.05,UPI
+ORD1017,2025-03-30,Nikhil Verma,Noida,Fashion,Men's Sneakers,1,2999,1700,0.0,Debit Card
+ORD1018,2025-04-03,Meera Kumar,Bengaluru,Fashion,Denim Jacket,1,3299,1900,0.1,Debit Card
+ORD1019,2025-04-13,Neha Kumar,Kolkata,Books,Python Programming Book,4,599,300,0.15,Cash on Delivery
+ORD1020,2025-04-14,Deepak Kapoor,Delhi,Electronics,Smart Watch,1,4999,3300,0.05,Debit Card
+ORD1021,2025-04-16,Rahul Singh,Mumbai,Books,Python Programming Book,4,599,300,0.1,UPI
+ORD1022,2025-04-21,Vikram Tiwari,Hyderabad,Electronics,Smart Watch,1,4999,3300,0.0,UPI
+ORD1023,2025-04-22,Divya Gupta,Bengaluru,Electronics,Power Bank,1,1299,750,0.05,Credit Card
+ORD1024,2025-04-27,Kavya Reddy,Bengaluru,Books,Python Programming Book,4,599,300,0.1,Cash on Delivery
+ORD1025,2025-05-03,Sahil Singh,Pune,Fashion,Women's Handbag,1,2499,1300,0.15,Debit Card
+ORD1026,2025-05-03,Manish Kumar,Bengaluru,Home & Kitchen,Mixer Grinder,1,3499,2200,0.15,UPI
+ORD1027,2025-05-08,Ananya Malhotra,Pune,Electronics,Wireless Earbuds,1,2499,1500,0.0,UPI
+ORD1028,2025-05-12,Pooja Jain,Mumbai,Home & Kitchen,Air Fryer,2,5999,4000,0.05,Net Banking
+ORD1029,2025-05-13,Arjun Reddy,Mumbai,Fashion,Men's Sneakers,2,2999,1700,0.05,UPI
+ORD1030,2025-05-23,Riya Malhotra,Delhi,Fashion,Men's Sneakers,1,2999,1700,0.1,Cash on Delivery
+ORD1031,2025-05-29,Meera Patel,Noida,Books,Python Programming Book,3,599,300,0.1,UPI
+ORD1032,2025-06-01,Karan Sharma,Hyderabad,Electronics,Bluetooth Speaker,1,1999,1200,0.05,UPI
+ORD1033,2025-06-01,Aarav Patel,Hyderabad,Home & Kitchen,Mixer Grinder,1,3499,2200,0.0,Cash on Delivery
+ORD1034,2025-06-06,Karan Gupta,Hyderabad,Home & Kitchen,Air Fryer,2,5999,4000,0.05,UPI
+ORD1035,2025-06-08,Divya Sharma,Mumbai,Books,Python Programming Book,2,599,300,0.1,UPI
+ORD1036,2025-06-08,Rohan Kapoor,Mumbai,Electronics,Wireless Earbuds,1,2499,1500,0.05,Cash on Delivery
+ORD1037,2025-06-14,Rohan Joshi,Mumbai,Books,Python Programming Book,2,599,300,0.1,Credit Card
+ORD1038,2025-06-22,Riya Verma,Chennai,Home & Kitchen,Air Fryer,2,5999,4000,0.05,Debit Card
+ORD1039,2025-07-03,Meera Kumar,Chennai,Books,Python Programming Book,2,599,300,0.0,UPI
+ORD1040,2025-07-11,Meera Mishra,Mumbai,Fashion,Denim Jacket,1,3299,1900,0.15,Credit Card
+ORD1041,2025-07-12,Rohan Kapoor,Chennai,Home & Kitchen,Air Fryer,2,5999,4000,0.0,Cash on Delivery
+ORD1042,2025-07-22,Isha Patel,Mumbai,Fashion,Men's Sneakers,1,2999,1700,0.0,UPI
+ORD1043,2025-07-23,Pooja Kumar,Hyderabad,Electronics,Power Bank,3,1299,750,0.0,UPI
+ORD1044,2025-07-25,Nikhil Verma,Delhi,Electronics,Wireless Earbuds,2,2499,1500,0.1,UPI
+ORD1045,2025-07-26,Nikhil Kapoor,Pune,Electronics,Wireless Earbuds,2,2499,1500,0.0,Debit Card
+ORD1046,2025-07-29,Neha Malhotra,Bengaluru,Electronics,Bluetooth Speaker,1,1999,1200,0.05,Debit Card
+ORD1047,2025-08-03,Sneha Singh,Kolkata,Home & Kitchen,Mixer Grinder,1,3499,2200,0.0,UPI
+ORD1048,2025-08-04,Karan Joshi,Pune,Electronics,Power Bank,2,1299,750,0.05,UPI
+ORD1049,2025-08-15,Riya Verma,Noida,Electronics,Bluetooth Speaker,1,1999,1200,0.05,Cash on Delivery
+ORD1050,2025-08-17,Manish Mishra,Chennai,Books,Python Programming Book,3,599,300,0.1,UPI
+ORD1051,2025-08-21,Riya Gupta,Bengaluru,Home & Kitchen,Cookware Set,2,2799,1650,0.1,Credit Card
+ORD1052,2025-08-23,Arjun Patel,Bengaluru,Electronics,Wireless Earbuds,1,2499,1500,0.1,Credit Card
+ORD1053,2025-08-25,Sneha Singh,Bengaluru,Home & Kitchen,Mixer Grinder,2,3499,2200,0.1,UPI
+ORD1054,2025-08-26,Rohan Gupta,Chennai,Home & Kitchen,Cookware Set,2,2799,1650,0.15,Cash on Delivery
+ORD1055,2025-09-03,Divya Jain,Kolkata,Electronics,Smart Watch,1,4999,3300,0.05,UPI
+ORD1056,2025-09-04,Karan Gupta,Bengaluru,Books,Self-Help Bestseller,4,399,180,0.1,UPI
+ORD1057,2025-09-04,Arjun Joshi,Bengaluru,Electronics,Power Bank,1,1299,750,0.0,UPI
+ORD1058,2025-09-08,Meera Nair,Bengaluru,Books,Self-Help Bestseller,2,399,180,0.15,UPI
+ORD1059,2025-09-12,Divya Patel,Delhi,Electronics,Smart Watch,1,4999,3300,0.0,UPI
+ORD1060,2025-09-14,Pooja Gupta,Mumbai,Books,Python Programming Book,3,599,300,0.0,Credit Card
+ORD1061,2025-09-21,Sahil Reddy,Hyderabad,Electronics,Power Bank,3,1299,750,0.05,Credit Card
+ORD1062,2025-09-28,Meera Singh,Delhi,Books,Python Programming Book,1,599,300,0.0,Net Banking
+ORD1063,2025-09-30,Isha Tiwari,Mumbai,Books,Self-Help Bestseller,1,399,180,0.0,Credit Card
+ORD1064,2025-10-02,Pooja Verma,Pune,Electronics,Bluetooth Speaker,2,1999,1200,0.15,Debit Card
+ORD1065,2025-10-03,Sahil Nair,Kolkata,Home & Kitchen,Mixer Grinder,2,3499,2200,0.15,UPI
+ORD1066,2025-10-10,Riya Mishra,Hyderabad,Electronics,Smart Watch,1,4999,3300,0.0,UPI
+ORD1067,2025-10-11,Ananya Patel,Delhi,Books,Self-Help Bestseller,4,399,180,0.0,Net Banking
+ORD1068,2025-10-14,Deepak Reddy,Chennai,Fashion,Denim Jacket,1,3299,1900,0.05,Debit Card
+ORD1069,2025-10-16,Karan Mishra,Chennai,Books,Self-Help Bestseller,4,399,180,0.1,Cash on Delivery
+ORD1070,2025-10-17,Isha Sharma,Kolkata,Electronics,Power Bank,2,1299,750,0.05,UPI
+ORD1071,2025-10-19,Isha Tiwari,Bengaluru,Home & Kitchen,Mixer Grinder,2,3499,2200,0.0,Credit Card
+ORD1072,2025-10-24,Rahul Tiwari,Hyderabad,Home & Kitchen,Mixer Grinder,2,3499,2200,0.1,Credit Card
+ORD1073,2025-10-25,Nikhil Jain,Hyderabad,Books,Self-Help Bestseller,1,399,180,0.0,Credit Card
+ORD1074,2025-10-29,Kavya Sharma,Pune,Electronics,Wireless Earbuds,2,2499,1500,0.05,UPI
+ORD1075,2025-10-31,Nikhil Nair,Hyderabad,Fashion,Men's Sneakers,1,2999,1700,0.15,Cash on Delivery
+ORD1076,2025-11-02,Nikhil Mishra,Bengaluru,Fashion,Men's Sneakers,2,2999,1700,0.1,Debit Card
+ORD1077,2025-11-04,Vikram Kapoor,Pune,Fashion,Women's Handbag,1,2499,1300,0.15,Cash on Delivery
+ORD1078,2025-11-05,Meera Sharma,Bengaluru,Fashion,Men's Sneakers,1,2999,1700,0.1,Cash on Delivery
+ORD1079,2025-11-12,Kavya Joshi,Hyderabad,Fashion,Denim Jacket,1,3299,1900,0.1,Credit Card
+ORD1080,2025-11-13,Manish Kumar,Bengaluru,Electronics,Bluetooth Speaker,2,1999,1200,0.05,Net Banking
+ORD1081,2025-11-13,Arjun Singh,Noida,Electronics,Power Bank,1,1299,750,0.05,Cash on Delivery
+ORD1082,2025-11-14,Vikram Malhotra,Bengaluru,Fashion,Men's Sneakers,2,2999,1700,0.05,Debit Card
+ORD1083,2025-11-19,Meera Patel,Mumbai,Electronics,Wireless Earbuds,1,2499,1500,0.05,Credit Card
+ORD1084,2025-11-20,Neha Jain,Kolkata,Books,Python Programming Book,2,599,300,0.15,Credit Card
+ORD1085,2025-11-20,Rahul Patel,Chennai,Fashion,Men's Sneakers,2,2999,1700,0.05,Cash on Delivery
+ORD1086,2025-11-21,Kavya Kapoor,Bengaluru,Electronics,Wireless Earbuds,1,2499,1500,0.1,UPI
+ORD1087,2025-11-25,Karan Mishra,Hyderabad,Home & Kitchen,Mixer Grinder,2,3499,2200,0.1,UPI
+ORD1088,2025-11-25,Meera Reddy,Mumbai,Fashion,Women's Handbag,1,2499,1300,0.1,Net Banking
+ORD1089,2025-12-03,Neha Sharma,Kolkata,Home & Kitchen,Mixer Grinder,2,3499,2200,0.0,Credit Card
+ORD1090,2025-12-08,Kavya Reddy,Kolkata,Books,Self-Help Bestseller,2,399,180,0.1,Debit Card
+ORD1091,2025-12-08,Ananya Verma,Delhi,Electronics,Power Bank,1,1299,750,0.05,Credit Card
+ORD1092,2025-12-09,Deepak Verma,Delhi,Home & Kitchen,Air Fryer,1,5999,4000,0.0,UPI
+ORD1093,2025-12-10,Aarav Mishra,Bengaluru,Books,Self-Help Bestseller,1,399,180,0.0,UPI
+ORD1094,2025-12-11,Aarav Singh,Kolkata,Fashion,Men's Sneakers,1,2999,1700,0.0,UPI
+ORD1095,2025-12-13,Arjun Jain,Delhi,Home & Kitchen,Air Fryer,1,5999,4000,0.05,Cash on Delivery
+ORD1096,2025-12-14,Vikram Sharma,Chennai,Books,Python Programming Book,4,599,300,0.1,Debit Card
+ORD1097,2025-12-20,Karan Sharma,Delhi,Home & Kitchen,Cookware Set,2,2799,1650,0.15,UPI
+ORD1098,2025-12-24,Isha Malhotra,Noida,Electronics,Wireless Earbuds,2,2499,1500,0.1,Debit Card
+ORD1099,2025-12-27,Isha Gupta,Hyderabad,Home & Kitchen,Mixer Grinder,2,3499,2200,0.05,UPI
+ORD1100,2025-12-31,Sneha Joshi,Chennai,Fashion,Women's Handbag,2,2499,1300,0.0,Credit Card
